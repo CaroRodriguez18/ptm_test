@@ -142,7 +142,7 @@ const API_BASE_URL = 'http://localhost:8080';
 ![Vista principal](screenshots/home.png)
 
 ### Combinaciones
-![Combinaciones](screenshots/combinations.png)
+![Combinaciones](screenshots/combinaciones.png)
 
 ### Modal de datos curiosos
 ![Modal gatos](screenshots/modal.png)
@@ -150,3 +150,5 @@ const API_BASE_URL = 'http://localhost:8080';
 ### Edición de productos
 ![Modal gatos](screenshots/edicion.png)
 
+### Estructura DB
+![Modal gatos](screenshots/DB.png)
