@@ -1,0 +1,23 @@
+# --- BACKEND (Spring Boot / Java) ---
+backend/target/
+backend/.idea/
+backend/.project
+backend/.classpath
+backend/.settings/
+backend/.vscode/
+
+# Frontend
+node_modules/
+frontend/node_modules/
+
+# Logs
+*.log
+logs/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+
+# Spring Boot secrets
+application-local.properties
+application-*.properties
